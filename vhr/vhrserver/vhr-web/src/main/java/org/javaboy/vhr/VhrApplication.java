@@ -17,8 +17,8 @@ public class VhrApplication {
     }
     public static void newMethod() {
     	
-    	System.out.println("yxnDev提交专用路线");
-    	System.out.println("yxnDev提交专用路线2020.09.13");
+    	System.out.println("yxnDev2提交专用路线");
+    	System.out.println("yxnDev2提交专用路线2020.09.13");
     	
     }
 
