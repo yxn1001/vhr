@@ -15,5 +15,8 @@ public class VhrApplication {
     public static void main(String[] args) {
         SpringApplication.run(VhrApplication.class, args);
     }
+    public static void newMethod() {
+    	System.out.println("yxn测试提交专用路线");
+    }
 
 }
